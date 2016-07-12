@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SMS</string>
+    <string name="title_activity_send">Send SMS</string>
+    <string name="title_activity_receive">Inbox</string>
+</resources>
